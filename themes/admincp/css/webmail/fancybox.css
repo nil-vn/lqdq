@@ -1,0 +1,39 @@
+.fancybox-outer, .fancybox-inner {
+    position: relative;
+    margin-bottom: 30px;
+}
+.fancybox-opened .fancybox-title {
+    visibility: visible;
+}
+.fancybox-title-float-wrap {
+    position: absolute;
+    z-index: 8050;
+    left: 5px;
+    bottom: 40px;
+    text-align: left;
+}
+.fancybox-close {
+    top: auto !important;
+}
+.fancybox-type-iframe .fancybox-nav {
+    width: 60px;       
+}
+
+.fancybox-type-iframe .fancybox-nav span {
+    visibility: visible;
+    opacity: 0.5;
+}
+
+.fancybox-type-iframe .fancybox-nav:hover span {
+    opacity: 1;
+}
+
+.fancybox-type-iframe .fancybox-next {
+    right: -60px;
+
+}
+
+.fancybox-type-iframe .fancybox-prev {
+    left: -60px;
+
+}

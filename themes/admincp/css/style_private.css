@@ -1,0 +1,25 @@
+#logo{ margin-top:-50px;}
+#vien{ border-bottom:1px solid #CCCCCC;}
+#dialogplus{margin-top:60px;}
+#dialogleft{ float:left; width:260px; height:122px; background:#eeeeee; border-radius:10px 10px 10px 10px; }
+#dialogright{ float:right; width:447px; height:122px; border:2px solid #eeeeee; border-radius:10px 10px 10px 10px; }
+#fontchu{ font-size:20px; font-weight:bold;}
+#tieude{ width:800px; height:10px; border:2px  solid #eeeeee;border-top-left-radius: 10px;border-top-right-radius: 10px; font-size:17px; padding-left:5px;}
+#tieude1{ width:800px; height:100px; border-left:2px solid #eeeeee; border-right:2px solid #eeeeee; border-bottom:2px solid #eeeeee;border-bottom-right-radius: 10px;border-bottom-left-radius: 10px;}
+#denation{width:800px; height:30px; border:2px  solid #eeeeee;border-top-left-radius: 10px;border-top-right-radius: 10px; margin-top:30px; background:#eeeeee; font-size:17px; font-weight:bold;}
+#dena_1{ float:left; width:510px;}
+#dena_2{float:left; width:95px; text-align:center;}
+#dena_3{float:left;text-align:center;}
+#denation1{ width:800px; height:100px; border-left:2px solid #eeeeee; border-right:2px solid #eeeeee; border-bottom:2px solid #eeeeee;border-bottom-right-radius: 10px;border-bottom-left-radius: 10px;}
+#dena_11{ float:left; width:510px;}
+#dena_22{float:left; width:95px; height:100px; border-left:2px solid #eeeeee; text-align:center;font-size:17px; font-weight:bold;}
+#dena_33{float:left; height:100px; border-left:2px solid #eeeeee; text-align:center;font-size:17px; font-weight:bold;}
+#denation2{ width:800px; border:2px solid #eeeeee;border-radius: 10px 10px 10px 10px; margin-top:15px;}
+#denation2b3c{width:800px; height:30px; border:2px  solid #eeeeee;border-radius: 10px 10px 10px 10px;background:#eeeeee;}
+#dena_2b{  width:595px; float:left; text-align:right;font-size:17px; font-weight:bold;}
+#dena_3c{  width:85px; float:right; font-size:17px; font-weight:bold;text-align:right; padding-right:10px;}
+#dena_22b{float:left; width:95px; height:100px;}
+#dena_33c{float:right; height:100px; border-left:2px solid #eeeeee;}
+#dena_2bt{ width:595px; float:left; text-align:right;font-size:17px; padding:5px 5px 5px 5px; border-right:2px solid #eeeeee;}
+#dena_3ct{ width:85px; float:right; font-size:17px; padding:5px 5px 5px 5px; text-align:right; padding-right:10px;}
+#dinhdang{ text-align:center; font-size:10px; padding-bottom:15px;}

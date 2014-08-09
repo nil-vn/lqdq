@@ -1,0 +1,55 @@
+/* message */
+.yukonsgrcp-e .yukonsgrcp-head{
+padding: 10px;
+border-top-left-radius: 3px;
+border-top-right-radius: 3px;
+color: #5D5D5D;
+font-size: 14pt;
+font-weight: bold;
+margin:0;
+}
+.yukonsgrcp-e.breadcrumb{
+border-radius:0;
+}
+.yukonsgrcp-e #message_mide .message_mide_top{
+border: 1px solid #DEDEDE;
+padding-left: 8px;
+background-color:#fff;
+}
+.MyMessagesPage-mmfpFooterDiv .MyMessagesPage-mmfplegend .btn{
+margin-top:-8px;
+}
+
+.MyMessagesPage-mmfpPagination {
+clear: both;
+color: #333333;
+font-size: 8pt;
+padding: 0px 10px 0px 7px;
+white-space: nowrap;
+}
+.MyMessagesPage-mmfpGreyButtonAreaDiv{
+background-color: #F2F2F2;
+border-color: #EEEEEE;
+border-style: solid;
+border-width: 1px 0px;
+clear: both;
+width: 99%;
+}
+.MyMessagesPage-mmfpFooterDiv {
+clear: both;
+color: #666666;
+font-size: 8pt;
+padding: 10px;
+}
+.MyMessagesPage-mmfptable{
+border-left: 1px solid #DEDEDE;
+border-bottom: 1px solid #DEDEDE;
+border-right: 1px solid #DEDEDE;
+}
+.MyMessagesPage-mmfptable{
+background-color:#fff;
+}
+
+body {
+
+}
